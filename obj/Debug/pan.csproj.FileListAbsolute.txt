@@ -1,0 +1,7 @@
+C:\Users\alumnotlsch\source\repos\pan\bin\Debug\pan.exe.config
+C:\Users\alumnotlsch\source\repos\pan\bin\Debug\pan.exe
+C:\Users\alumnotlsch\source\repos\pan\bin\Debug\pan.pdb
+C:\Users\alumnotlsch\source\repos\pan\obj\Debug\pan.csproj.AssemblyReference.cache
+C:\Users\alumnotlsch\source\repos\pan\obj\Debug\pan.csproj.CoreCompileInputs.cache
+C:\Users\alumnotlsch\source\repos\pan\obj\Debug\pan.exe
+C:\Users\alumnotlsch\source\repos\pan\obj\Debug\pan.pdb
